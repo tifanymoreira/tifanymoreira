@@ -30,7 +30,7 @@
 
 ## Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tifany-moreira-65489a228/)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tifany-moreira-65489a228/)
 
 
 Obrigada pela visita! 😊

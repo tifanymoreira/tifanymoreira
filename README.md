@@ -3,9 +3,8 @@
 ## Sobre Mim
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (2/6)!
-- 🌱 Atualmente estou aprendendo Javascript e C++!
+- 🌱 Atualmente estou aprendendo Javascript e C++! :D
 - 🤔 Possuo interesse em Java, Go, Rust e Python...! 
-- 💬 Pergunte-me sobre C++ e JavaScript! :)
 - 📫 Como me encontrar: [tiluiza12@gmail.com](mailto:tiluiza12@gmail.com)
 
 ## Habilidades
@@ -27,4 +26,12 @@
 ## Principais Linguagens
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tifanymoreira&layout=compact&theme=radical)
+
+
+## Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tifany-moreira-65489a228/)]
+
+
+Obrigada pela visita! 😊
 

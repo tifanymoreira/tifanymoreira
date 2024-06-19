@@ -1,14 +1,12 @@
-# Olá, eu sou Tifany Luiza 👋
+# Oi! Aqui é a Tifany! 👋
 
 ## Sobre Mim
 
-- 🔭 Estudo análise e desenvolvimento de sistemas
-- 🌱 Atualmente estou aprendendo Javascript e C++
-- 👯 Possuo interesse em Java, Go, Rust e Python
+- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (2/6)!
+- 🌱 Atualmente estou aprendendo Javascript e C++!
+- 🤔 Possuo interesse em Java, Go, Rust e Python...! 
 - 💬 Pergunte-me sobre C++ e JavaScript! :)
 - 📫 Como me encontrar: [tiluiza12@gmail.com](mailto:tiluiza12@gmail.com)
-- 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Gosto de explorar novas tecnologias e desafios
 
 ## Habilidades
 

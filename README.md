@@ -1,4 +1,4 @@
-# Oi! Aqui é a Tifany! 👋
+# Oiê! Aqui é a Tifany! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=tifanymoreira&color=blueviolet)
 
@@ -7,7 +7,7 @@
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (2/6)!
 - 🌱 Atualmente estou aprendendo Javascript e C++! :D
 - 🤔 Possuo interesse em Java, Go, Rust e Python...! 
-- 📫 Como me encontrar: [tiluiza12@gmail.com](mailto:tiluiza12@gmail.com)
+- 📫 Você pode entrar em contato comigo em: [tiluiza12@gmail.com](mailto:tiluiza12@gmail.com)
 
 ## Habilidades
 
@@ -35,5 +35,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tifany-moreira-65489a228/)
 
 
-Obrigada pela visita! 😊
+Obrigada pela visita, volte sempre! 😊
 

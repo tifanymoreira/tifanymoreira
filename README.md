@@ -1,5 +1,7 @@
 # Oi! Aqui é a Tifany! 👋
 
+![Profile views](https://gpvc.arturio.dev/tifanymoreira)
+
 ## Sobre Mim
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (2/6)!

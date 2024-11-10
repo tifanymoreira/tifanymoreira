@@ -4,9 +4,9 @@
 
 ## Sobre Mim
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (2/6)!
-- 🌱 Atualmente estou aprendendo Javascript e C++! :D
-- 🤔 Possuo interesse em Java, Go, Rust e Python...! 
+- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (3/6)!
+- 🌱 Atualmente estou aprendendo Java, Python e PHP! :D
+- 🤔 Possuo interesse em Go e Rust! 
 - 📫 Você pode entrar em contato comigo em: [tiluiza12@gmail.com](mailto:tiluiza12@gmail.com)
 
 ## Habilidades

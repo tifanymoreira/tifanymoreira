@@ -4,9 +4,9 @@
 
 ## Sobre Mim
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (4/6)!
-- 💼 Atualmente trabalho na LG Electronics.
-- 🌱 Atualmente estou aprimorando minhas habilidades em Java, Python e PHP! :D
+- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (5/6).
+- 💼 Atualmente trabalho na LG Electronics como estagiária em desenvolvimento.
+- 🌱 Atualmente estou aprimorando minhas habilidades em Java, Python e PHP.
 - 🚀 Tenho experiência com Node.js, MySQL, gerenciamento de versão de código com Git e desenvolvimento de chatbots.
 
 ## Habilidades

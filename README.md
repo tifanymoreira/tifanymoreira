@@ -1,4 +1,4 @@
-# Oiê! Aqui é a Tifany! 👋
+# Oi! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=tifanymoreira&color=blueviolet)
 
@@ -27,6 +27,7 @@
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-black?style=flat-square&logo=codeblocks)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij)
 
 ## GitHub Estatísticas
 

@@ -7,7 +7,7 @@
 - 🔭 I'm a Systems Analysis and Development student (5/6).
 - 💼 I'm currently working at LG Electronics as a Development Intern.
 - 🌱 I'm currently improving my skills in Java, Python, and PHP.
-- 🚀 I have experience with Node.js, MySQL, version control with Git, and chatbot development.
+- 🚀 I have experience mainly with Node.js, MySQL, version control with Git, chatbot development and automation services.
 
 ## Skills
 

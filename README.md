@@ -1,15 +1,15 @@
-# Oi! 👋
+# Hi there! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=tifanymoreira&color=blueviolet)
 
-## Sobre Mim
+## About Me
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (5/6).
-- 💼 Atualmente trabalho na LG Electronics como estagiária em desenvolvimento.
-- 🌱 Atualmente estou aprimorando minhas habilidades em Java, Python e PHP.
-- 🚀 Tenho experiência com Node.js, MySQL, gerenciamento de versão de código com Git e desenvolvimento de chatbots.
+- 🔭 I'm a Systems Analysis and Development student (5/6).
+- 💼 I'm currently working at LG Electronics as a Development Intern.
+- 🌱 I'm currently improving my skills in Java, Python, and PHP.
+- 🚀 I have experience with Node.js, MySQL, version control with Git, and chatbot development.
 
-## Habilidades
+## Skills
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
@@ -23,24 +23,24 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 
-## Ferramentas
+## Tools
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-black?style=flat-square&logo=codeblocks)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellij)
 
-## GitHub Estatísticas
+## GitHub Stats
 
 ![Tifany Luiza GitHub stats](https://github-readme-stats.vercel.app/api?username=tifanymoreira&show_icons=true&theme=radical)
 
-## Principais Linguagens
+## Top Languages
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tifanymoreira&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tifanymoreira&layout=compact&theme=radical)
 
 
-## Vamos nos conectar!
+## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tifany-moreira-65489a228/)
 
 
-Obrigada pela visita, volte sempre! 😊
+Thanks for visiting, come back anytime! 😊

@@ -15,7 +15,6 @@ Welcome to my corner of the internet! I'm a developer focused on building effici
 - 🎓 I'm a **Systems Analysis and Development** student, nearing the completion of my degree (5/6).
 - 💼 I'm currently applying my skills as a **Development Intern** at **LG Electronics**.
 - 🚀 I have hands-on experience building backend services with **Node.js**, managing data with **MySQL**, and creating smart **automation services** and **chatbots**.
-- 🌱 My current focus is on deepening my expertise in **Java with the Spring Framework**, exploring **Python** for data-driven applications, and honing my web development skills with **PHP**.
 
 ---
 
